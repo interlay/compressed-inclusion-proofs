@@ -1,8 +1,5 @@
 # TxChain: compressed-inclusion-proofs
 
-
-**Note: migrated to [github.com/interlay/compressed-inclusion-proofs](https://github.com/interlay/compressed-inclusion-proofs). This repository is maintained as a mirror for completeness** 
-
 Repository with the source code for
 
 TxChain: Efficient Cryptocurrency Light Clients viaContingent Transaction Aggregation
