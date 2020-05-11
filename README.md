@@ -1,4 +1,4 @@
-# compressed-inclusion-proofs
+# TxChain: compressed-inclusion-proofs
 
 Repository with the source code for
 
